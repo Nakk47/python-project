@@ -53,4 +53,5 @@ Create a master key (on first run).
 
 Input the master key to access the vault.
 
-Select options for adding a new password or retrieving an existing one. -->
+Select options for adding a new password or retrieving an existing one. 
+
